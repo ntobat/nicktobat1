@@ -1,0 +1,85 @@
+/*body*/
+body{
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	margin: 0;
+	padding: 0;
+}
+/*nav*/
+.nav{
+	font-family: 'Oxygen', sans-serif;
+	height: 500px;
+}
+.nav h3{
+	color: black;
+	font-size: 2.5em;
+}
+.nav p{
+	color: black;
+	font-size: 1.5em;
+}
+.proj img{
+	border-radius: 20%
+}
+.proj {
+	text-align: center;
+	border-right: .4em solid #f8f8f8;
+}
+.blog img{
+	border-radius: 20%;
+}
+.blog {
+	text-align: center;
+	border-right: .4em solid #f8f8f8;
+	border-left: .4em solid #f8f8f8;
+}
+.info img{
+	border-radius: 20%;
+}
+.info {
+	border-left: .4em solid #f8f8f8;
+	text-align: center;
+}
+/*header*/
+header{
+	background-color: white;
+	padding-top: 4em;
+	padding-right: 1.5em;
+	padding-bottom: 4em;
+	padding-left: 1.5em;
+	width: 100%;
+	max-width: 100%;
+	margin: auto;
+	border-bottom: .5em solid #f8f8f8;
+}
+.pic{
+	width: 200px;
+ 	height: 200px;
+ 	background-image: url('http://s26.postimg.org/7pv2rc8sp/webpic.jpg');
+ 	background-size: cover;
+ 	display: block;
+ 	border-radius: 100px;
+ 	-webkit-border-radius: 100px;
+ 	-moz-border-radius: 100px;
+ 	border: .5em solid black;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 1em;
+}
+h1{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 4em;
+	color: black;
+	line-height: 2em;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+.bio{
+	font-family: 'Oxygen', sans-serif;
+	font-size: 3.2em;
+	color: black;
+	text-align: center;
+}
